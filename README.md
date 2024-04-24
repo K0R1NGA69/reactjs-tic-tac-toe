@@ -1,5 +1,5 @@
 # reactjs-tic-tac-toe
-test
+Oiiii
 This is a simple Tic Tac Toe game built with React.js. It allows two players to take turns marking spaces on a 3x3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game.
 
 ## Demo
